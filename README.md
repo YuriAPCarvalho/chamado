@@ -133,6 +133,3 @@ CA-11 | Banco de dados | Os dados do sistema devem ser armazenados em um banco d
 CA-12 | Plataformas de Gestão de Conteúdo | Para a construção da solução proposta neste trabalho, NÃO poderá ser utilizada uma plataforma pronta de gestão de sites de conteúdos como Wordpress, Drupal, Joomla ou similar.
 CA-13 | Linguagens de Programação e Frameworks | No Front End, é permitido o uso de qualquer tipo de framework tanto para CSS quanto para JavaScript. No Back End, é permitido o uso de qualquer linguagem e frameworks voltada para Web, sendo recomendado o uso das linguagens vistas no curso.
 ___
-
-
-# tcc

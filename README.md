@@ -93,7 +93,7 @@ Como temos alunos entrando no curso em momentos distintos do ano, o cronograma a
 
 O cronograma da disciplina é apresentado na Figura a seguir. 
 
-![cronograma](anexo/Calendários%20de%20Entregas.png)
+![cronograma](https://pucminas.instructure.com/courses/64714/files/5195491/preview)
 ___
 ## 4. Avaliação
 Nesta seção, são abordados o processo de avaliação do Projeto Integrado e os critérios de aceitação para o trabalho como um todo. É fundamental que o aluno observe estes critérios para planejamento do seu projeto.

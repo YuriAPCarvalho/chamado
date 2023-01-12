@@ -8,7 +8,7 @@ import home from './pages/home.vue'
 const router = createRouter ({
     routes: [ 
         { path: '/', component: login },
-        { pat: '/home', component: home }
+        { path: '/home', component: home }
     ],
     history: createWebHistory()
 })

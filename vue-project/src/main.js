@@ -1,6 +1,16 @@
 import { createApp } from 'vue'
 import App from './App.vue'
+import { createRouter, createWebHistory } from 'vue-router'
+import login from './pages/login.vue'
+import home from './pages/home.vue'
 
-import './assets/main.css'
 
-createApp(App).mount('#app')
+const router = createRouter ({
+    routes: [ 
+        { path: '/', component: login },
+        { pat: '/home', component: home }
+    ],
+    history: createWebHistory()
+})
+
+createApp(App).use(router).mount('#app')

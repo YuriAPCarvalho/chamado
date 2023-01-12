@@ -93,7 +93,7 @@ Como temos alunos entrando no curso em momentos distintos do ano, o cronograma a
 
 O cronograma da disciplina é apresentado na Figura a seguir. 
 
-![cronograma](https://github.com/YuriAPCarvalho/tcc/blob/master/anexo/Calend%C3%A1rios%20de%20Entregas.png)
+![cronograma](vue-project/src/components/icons/Calendários%20de%20Entregas.png)
 ___
 ## 4. Avaliação
 Nesta seção, são abordados o processo de avaliação do Projeto Integrado e os critérios de aceitação para o trabalho como um todo. É fundamental que o aluno observe estes critérios para planejamento do seu projeto.

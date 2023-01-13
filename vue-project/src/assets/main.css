@@ -1,11 +1,28 @@
-h1, h2 {
-    text-align: center;
-    margin-top: 50px;
-    color: #0c550f;
+h1,
+h2 {
+  text-align: center;
+  margin-top: 50px;
+  color: #0c550f;
 }
 
 body {
-    background-color: rgba(219, 219, 219, 0.753)
+  background-color: rgba(219, 219, 219, 0.753)
+}
+
+select {
+  width: 100%;
+  padding: 14px 20px;
+  margin: 4px 0;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+
+}
+
+textarea {
+  border: 1px solid #ccc;
+  margin: 4px 0;
+  border-radius: 4px;
 }
 
 .register-form {
@@ -27,7 +44,8 @@ body {
   border-radius: 4px;
 }
 
-.register-button, .aberturabtn {
+.register-button,
+.aberturabtn {
   width: 100%;
   background-color: #4CAF50;
   color: white;
@@ -38,9 +56,11 @@ body {
   cursor: pointer;
 }
 
-.register-button:hover, .aberturabtn:hover {
+.register-button:hover,
+.aberturabtn:hover {
   background-color: #45a049;
 }
+
 .login-form {
   width: 300px;
   margin: 0 auto;
@@ -60,7 +80,9 @@ body {
   border-radius: 4px;
 }
 
-.login-button, .signup-button, .google-button {
+.login-button,
+.signup-button,
+.google-button {
   width: 100%;
   padding: 14px 20px;
   margin: 8px 0;

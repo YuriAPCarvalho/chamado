@@ -1,4 +1,4 @@
-import login from '../pages/login.vue '
+import login from '../pages/login.vue'
 import home from '../pages/home.vue'
 import cadastro from '../pages/cadastro.vue'
 
